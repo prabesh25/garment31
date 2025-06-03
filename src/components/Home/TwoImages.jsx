@@ -2,7 +2,7 @@ import React from 'react';
 
 const TwoImages = () => {
   return (
-    <section className="flex w-full h-screen">
+    <section className="flex w-full h-full">
       {/* Left Block */}
       <div className="w-1/2 flex flex-col">
         <div className="flex-1">
