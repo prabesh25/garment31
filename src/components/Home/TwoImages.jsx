@@ -15,7 +15,7 @@ const TwoImages = () => {
         <div className="flex items-center justify-between py-3 px-7">
           <h2 className="text-xl font-semibold">T-shirt</h2>
           <button className="mt-2 px-4 py-2 bg-black text-white rounded hover:bg-gray-800 transition">
-            Shop Now
+            Order Now
           </button>
         </div>
       </div>
@@ -34,7 +34,7 @@ const TwoImages = () => {
 
           <h2 className="text-xl font-semibold">T-shirt</h2>
           <button className="mt-2 px-4 py-2 bg-black text-white rounded hover:bg-gray-800 transition">
-            Shop Now
+            Order Now
           </button>
         </div>
       </div>

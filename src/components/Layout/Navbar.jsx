@@ -9,7 +9,7 @@
 //       {/* Top announcement bar */}
 //       <div className="w-full bg-gray-50 py-2 px-5 md:px-12 border-b border-gray-200 flex justify-between items-center">
 //         <div className="text-xs font-bold">TOP SELLERS STARTING AT 1399</div>
-//         <a href="#" className="text-xs font-bold hover:underline">SHOP NOW +</a>
+//         <a href="#" className="text-xs font-bold hover:underline">Order Now +</a>
 //       </div>
 
 //       {/* Main navbar */}
@@ -95,8 +95,8 @@ const Navbar = () => {
     <div className="w-full">
       {/* Top announcement bar */}
       <div className="w-full bg-gray-50 py-2 px-5 md:px-12 border-b border-gray-200 flex justify-between items-center">
-        <div className="text-xs font-bold">TOP SELLERS STARTING AT 1399</div>
-        <a href="#" className="text-xs font-bold hover:underline">SHOP NOW +</a>
+        <div className="text-xs font-bold">Sale Sale Sale </div>
+        <a href="#" className="text-xs font-bold hover:underline">Order Now +</a>
       </div>
 
       {/* Main navbar */}

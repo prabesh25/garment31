@@ -21,7 +21,7 @@
 // //       {/* Right Bottom Button */}
 // //       <div className="absolute bottom-10 right-10">
 // //         <button className="bg-white text-black px-6 py-2 font-semibold rounded hover:bg-gray-200 transition">
-// //           Shop Now
+// //           Order Now
 // //         </button>
 // //       </div>
 // //     </section>
@@ -46,7 +46,7 @@
 //       {/* Right Bottom Button */}
 //       <div className="absolute bottom-10 right-10">
 //         <button className="bg-white text-black px-6 py-2 font-semibold rounded hover:bg-gray-200 transition">
-//           Shop Now
+//           Order Now
 //         </button>
 //       </div>
 //     </section>
@@ -71,7 +71,7 @@ const Summer = () => {
 
       <div className="absolute bottom-10 right-10">
         <button className="bg-white text-black px-6 py-2 font-semibold rounded hover:bg-gray-200 transition">
-          Shop Now
+          Order Now
         </button>
       </div>
     </section>
